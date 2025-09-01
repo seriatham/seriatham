@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**seriatham/seriatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Hi there 👋, I'm **Seriatham**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Aspiring Software Security & IT Enthusiast**
+🌍 **Based in Romania 🇷🇴**
+📚 **Currently learning:** Linux, Cybersecurity, and Software Development
+🎯 **Goal:** Build a career in IT & Security while working on cool projects.
+
+---
+
+## 🚀 About Me
+
+* 🔐 **Interested in:** software security, ethical hacking, and open-source tools
+* 🌱 **Currently exploring:** Linux distros & network security basics
+
+---
+
+## 🛠️ Tech Stack
+
+**💡 Languages:**
+
+* Python 🐍 | C/C++ ⚡ | Java ☕
+
+**🧰 Tools & OS:**
+
+* Linux (Ubuntu, Arch, Kali) 🐧
+* Git & GitHub
+* Bash & Terminal scripting
+
+**🎯 Focus Areas:**
+
+* Cybersecurity 🔐
+* Linux Systems 🖥️
+* Networking 🌐
+
+---
+
+## 🌍 Connect with Me
+
+📧 **Email:** [glitchlogged@gmail.com](mailto:glitchlogged@gmail.com)
+
+---
+
+🔥 *“Stay curious, stay secure.”*
+
+---
