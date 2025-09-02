@@ -39,7 +39,7 @@
 
 ## 🌍 Connect with Me
 
-📧 **Email:** [glitchlogged@gmail.com](mailto:glitchlogged@gmail.com)
+📧 **Email:** [seriatham@gmail.com](mailto:seriatham@gmail.com)
 
 ---
 
