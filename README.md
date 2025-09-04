@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 * 🔐 **Interested in:** software security, ethical hacking, and open-source tools
-* 🌱 **Currently exploring:** Linux distros & network security basics
+* 🌱 **Currently exploring:** Linux distros, network security basics and C
 
 ---
 
@@ -21,11 +21,11 @@
 
 **💡 Languages:**
 
-* Python 🐍 | C/C++ ⚡ | Java ☕
+* Bash, Python, Frontend Languages
 
 **🧰 Tools & OS:**
 
-* Linux (Ubuntu, Arch, Kali) 🐧
+* Linux (Ubuntu, Kali) 🐧
 * Git & GitHub
 * Bash & Terminal scripting
 
